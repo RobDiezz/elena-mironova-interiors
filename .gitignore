@@ -1,0 +1,19 @@
+# Local audit report and working materials
+/AUDIT.md
+/work/
+/screenshots/
+/audit-results/
+
+# Editor and operating system files
+/.vscode/
+/.idea/
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.log
+*.tmp
+*.bak
+
+# Local environment settings
+.env
+.env.*
