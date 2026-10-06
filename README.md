@@ -30,3 +30,7 @@
 Поместите файлы проекта в корень репозитория. В **Settings → Pages** выберите **Deploy from a branch → main → /(root)**.
 
 Все ресурсы используют относительные пути, совместимые с размещением в подпапке репозитория.
+
+## Live Demo
+
+https://robdiezz.github.io/elena-mironova-interiors/
